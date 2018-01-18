@@ -21,16 +21,12 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from Jan 16 - 
   - Regular Expressions*
 - Git and GitHub
 
-**Career Services:** Intro to Career Services & Interview Bucket List
-
 ### Week 2 
 - Arrays
 - Loops
 - Intro to OOP
 - Building Classes - Methods and Attributes
 - Unit Testing/TDD (Junit)*
-
-**Career Services:** [Elevator Pitch](https://github.com/WeCanCodeIT/wcci-columbus-2017-fall/blob/master/CareerServices/ElevatorPitchChecklist.md)
 
 ### Week 3 
 - Collections Overview (*Iterables/Iterators)
@@ -39,68 +35,43 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from Jan 16 - 
 - Inheritance & Polymorphism
 - Encapsulation
 
-**Career Services:** [Resume Workshop](https://github.com/WeCanCodeIT/wcci-columbus-2017-fall/blob/master/CareerServices/StarterResume.md)
-
 ### Week 4 
 - Dependency Injection/Spring
 - Test Doubles (Mockito)*
 - Exceptions
 - Build Automation with Gradle*
 
-**Career Services:** Resume Workshop Continued
-
 ### Week 5 
 - Spring Boot
 - HTML
 - MVC
 
-**Career Services:** [Inbound Marketing Yourself with LinkedIn](https://github.com/WeCanCodeIT/wcci-columbus-2017-fall/blob/master/CareerServices/LinkedInProfileChecklist.md)
-
-**Resumes Due (Printed) by 9:30 AM Day of In Class Session**
-
-**Note:** Prepare for Headshots Next Week on Friday
-
 ### Week 6 
 - CSS
 - Bootstrap
-
-**Career Services:** [Informational Interviews](https://github.com/WeCanCodeIT/wcci-columbus-2017-fall/blob/master/CareerServices/informational-interviews.md)
-
-*Start [scheduling](https://app.hubspot.com/meetings/lauren47) one-on-one check-ins 
 
 ### Week 7
 - Relational Databases and Design
 - Relational Databases and SQL
 - Java Persistence API (Spring Data)
 
-**Career Services:** [Behavioral Interviews](https://github.com/WeCanCodeIT/wcci-columbus-2017-fall/blob/master/CareerServices/behavioral-interviews.md)
-
 ### Week 8 
 - JavaScript/jQuery
 - AJAX, JSON, and RESTful APIs
 - Pair Programming (w/ Git/GitHub)
 
-**Career Services:** Intro to Tech Interviews
-
 ### Week 9 
 - Flex Week
-
-**Career Services:** Tech Interviews Continued
 
 ### Week 12-14
 - Final Project
 - Agile/Scrum
 
-**Career Services:** Individual Mock Interviews
-
 '*' Denotes potential topics
 
 # Important Dates
 
-
-
-# Career Services One-on-One Scheduling
-Use the following link to schedule a one-on-one meeting for career assistance: [Schedule Meeting](https://app.hubspot.com/meetings/lauren47)
+Demo Day & Graduation: April 20, 2018
 
 # Attendance Policy
 
