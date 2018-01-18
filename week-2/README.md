@@ -30,7 +30,7 @@
 - [Oracle Java Tutorial, The while and do-while Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html)
 
 
-## TDay 2
+## Day 2
 
 ### Topics
 
