@@ -41,3 +41,10 @@ Old Elevator Pitch:
 
 New Elevator Pitch:
 “I’m a web designer who’s making the Internet a more beautiful and positive place! My background in counselling helps me understand what the bloggers and small business owners I work with need. And, thanks to working in administration AND now being a stay-at-home mom, I’m great at coming up with solutions, no matter what you throw at me.”
+
+## Additional Resources
+- [Elevator Pitch Examples](https://skillcrush.com/2015/05/08/elevator-pitch-proud-of/)
+- [How to talk about your career change in your elevator pitch](https://www.themuse.com/advice/how-to-talk-about-your-career-change-in-your-elevator-pitch)
+- [Create an elevator pitch for your career transition](https://medium.com/career-relaunch/create-an-elevator-pitch-for-your-career-transition-cb629b5553ce)
+
+
