@@ -97,7 +97,7 @@
 
 - [Strings slides](https://wecancodeit.github.io/java-slides/fundamentals/strings/)
 - [Strings Student Guide](https://wecancodeit.github.io/java-resources/fundamentals/strings/)
-- [Git Bash commands cheat sheet (work in progress)](https://github.com/WeCanCodeIT/java-resources/tree/master/bash)
+- [Git Bash commands cheat sheet (work in progress)](https://wecancodeit.github.io/java-resources/bash/)
 
 
 ## Day 5
