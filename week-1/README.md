@@ -18,7 +18,7 @@
 ### Activities
 
 - Join Slack
-- [Hello World Activities](https://github.com/WeCanCodeIT/java-exercises/blob/master/fundamentals-practice-problems/hello-world-activities.md)
+- [Hello World Activities](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/hello-world/)
 - Recommended Reading:
   - *Head First Java* pages xxvii,8-9 of Ch. 1 Anatomy of a class and the main method
 - [Want more practice?](https://www.w3resource.com/java-exercises/basic/index.php)
@@ -61,7 +61,7 @@
 
 ### Activities
 
-- [Conditionals and User Input Practice Problems](https://github.com/WeCanCodeIT/java-exercises/blob/master/fundamentals-practice-problems/conditionals.md)
+- [Conditionals and User Input Practice Problems](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/conditionals/)
 - Setup [CodingBatAccount](http://codingbat.com/java)
   - Work through Warmup-1 (non String problems only)
 - Recommended Reading:
@@ -87,7 +87,7 @@
 
 ### Activities
 
-- [Practice Problems and String Challenges](https://github.com/WeCanCodeIT/java-exercises/blob/master/fundamentals-practice-problems/strings.md)
+- [Practice Problems and String Challenges](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/strings/)
 - CodingBat Warmup-1 (String problems)
 - [Git Hub/ Git Bash Training](https://github.com/jlord/git-it-electron)
 - [Guide to Initializing and Maintaining A Repo on GitHub](https://wecancodeit.github.io/java-resources/git/managing-your-repo/)
