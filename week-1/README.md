@@ -69,7 +69,7 @@
 
 ### References
 
-- [Conditionals Student Guide](https://github.com/WeCanCodeIT/java-resources/blob/master/fundamentals/conditionals-and-user-input.md)
+- [Conditionals Student Guide](https://wecancodeit.github.io/java-resources/fundamentals/conditionals-and-user-input/)
 - [Conditionals slides](https://wecancodeit.github.io/java-slides/fundamentals/conditionals/)
 - [Reading Console Input slides](https://wecancodeit.github.io/java-slides/fundamentals/reading-console-input/)
 - [Oracle Java Tutorial, The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
