@@ -46,7 +46,7 @@
 
 ### References
 
-- [Types and Expressions Student Guide](https://github.com/WeCanCodeIT/java-resources/blob/master/fundamentals/types-and-expressions.md)
+- [Types and Expressions Student Guide](https://wecancodeit.github.io/java-resources/types-and-expressions/index.md)
 - [Basic Types and Variables Slides](https://wecancodeit.github.io/java-slides/fundamentals/basic-types-and-variables/)
 - [Operators and Expressions Slides (with Problems)](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/)
 
