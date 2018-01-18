@@ -46,7 +46,7 @@
 
 ### References
 
-- [Types and Expressions Student Guide](https://wecancodeit.github.io/java-resources/types-and-expressions/index.md)
+- [Types and Expressions Student Guide](https://wecancodeit.github.io/java-resources/fundamentals/types-and-expressions/)
 - [Basic Types and Variables Slides](https://wecancodeit.github.io/java-slides/fundamentals/basic-types-and-variables/)
 - [Operators and Expressions Slides (with Problems)](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/)
 
@@ -96,6 +96,7 @@
 ### References
 
 - [Strings slides](https://wecancodeit.github.io/java-slides/fundamentals/strings/)
+- [Strings Student Guide](https://wecancodeit.github.io/java-resources/fundamentals/strings/)
 - [Git Bash commands cheat sheet (work in progress)](https://github.com/WeCanCodeIT/java-resources/tree/master/bash)
 
 
