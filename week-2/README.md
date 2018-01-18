@@ -15,7 +15,7 @@
 
 ### Activities
 
-- [While Loop practice problems](./while-loop-practice.md)
+- [While Loop practice problems](https://wecancodeit.github.io/java-exercises/while-loops/)
 - Loops Part 1 Slide # 10
 - With time left today, practice more loop scenarios or make a mini game with a looping effect
 	- loop to play over and over again
