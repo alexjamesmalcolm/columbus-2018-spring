@@ -41,7 +41,7 @@
 
 ### Activities
 
-- [For Loop practice problems](./for-loop-practice.md)
+- [For Loop practice problems](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/for-loops/)
 - [CodingBat Warmup 2](http://codingbat.com/java)
 
 ### References
