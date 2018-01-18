@@ -90,7 +90,7 @@
 - [Practice Problems and String Challenges](https://github.com/WeCanCodeIT/java-exercises/blob/master/fundamentals-practice-problems/strings.md)
 - CodingBat Warmup-1 (String problems)
 - [Git Hub/ Git Bash Training](https://github.com/jlord/git-it-electron)
-- [Guide to Initializing and Maintaining GitHub](https://wecancodeit.github.io/java-resources/git/managing-your-repo/)
+- [Guide to Initializing and Maintaining A Repo on GitHub](https://wecancodeit.github.io/java-resources/git/managing-your-repo/)
 
 
 ### References
