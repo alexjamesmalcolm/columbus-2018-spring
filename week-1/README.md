@@ -90,7 +90,7 @@
 - [Practice Problems and String Challenges](https://github.com/WeCanCodeIT/java-exercises/blob/master/fundamentals-practice-problems/strings.md)
 - CodingBat Warmup-1 (String problems)
 - [Git Hub/ Git Bash Training](https://github.com/jlord/git-it-electron)
-- [Push your first Eclipse Project to Git Hub](https://github.com/WeCanCodeIT/java-resources/blob/master/git/feature-branches/push-project.md)
+- [Push your first Eclipse Project to Git Hub](https://wecancodeit.github.io/java-resources/git/feature-branches/push-project/)
 
 
 ### References
