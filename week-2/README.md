@@ -74,6 +74,7 @@
 ### References
 
 - [Arrays slides](https://wecancodeit.github.io/java-slides/fundamentals/arrays/)
+- [Arrays Student Guide](https://wecancodeit.github.io/java-resources/fundamentals/arrays/)
 - [Oracle Java Tutorial, Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 
 
