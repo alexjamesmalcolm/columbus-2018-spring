@@ -21,12 +21,18 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from Jan 16 - 
   - Regular Expressions*
 - Git and GitHub
 
+Career Services: 
+- [Elevator Pitch](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Elevator-Pitch.md)
+- [Homework: Opportunity Characteristics Inventory](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Opportunity-Characteristics-Inventory.md)
+
 ### Week 2 
 - Arrays
 - Loops
 - Intro to OOP
 - Building Classes - Methods and Attributes
 - Unit Testing/TDD (Junit)*
+
+Career Services: Headshots on Friday
 
 ### Week 3 
 - Collections Overview (*Iterables/Iterators)
