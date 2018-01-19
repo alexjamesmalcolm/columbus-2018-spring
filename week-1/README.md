@@ -102,7 +102,7 @@
 
 ## Day 5
 
-[Weekly Graded Exercise](https://wecancodeit.github.io/java-exercises/fortune-teller)
+[Weekly Graded Exercise](https://wecancodeit.github.io/java-exercises/fortune-telle)
 
 Due Monday 9:30 AM:
 
