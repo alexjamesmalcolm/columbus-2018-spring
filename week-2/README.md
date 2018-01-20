@@ -22,7 +22,8 @@
 	- use accumulator variables to keep track of points
 	- use a random number generator
 	- what types of games can we come up with?
-- Recommended Reading: Head First Java pages 10-14, 23, 24
+- Recommended Reading:
+	- *Head First Java* pages 10-14, 23, 24
 
 ### References
 
@@ -70,6 +71,8 @@
 
 - Practice problems on slides 10 and 14
 - [CodingBat Array2](http://codingbat.com/java)
+- Recommended Reading:
+	- *Head First Java* pages 59-64
 
 ### References
 
@@ -90,7 +93,8 @@
 ### Activities
 
 - [ATM Machine](https://wecancodeit.github.io/java-exercises/atm/)
-- Recommended Reading: Head First Java pages 54-56, 71-82, 99-102
+- Recommended Reading:
+	- *Head First Java* pages 54-56, 71-82, 99-102
 - Practice, practice and more practice (review your programs from the week!)
 
 ### References
