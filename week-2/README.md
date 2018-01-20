@@ -44,6 +44,8 @@
 
 - [For Loop practice problems](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/for-loops/)
 - [CodingBat Warmup 2](http://codingbat.com/java)
+- Recommended Reading:
+	- *Head First Java* pages 114-115, 119
 
 ### References
 
