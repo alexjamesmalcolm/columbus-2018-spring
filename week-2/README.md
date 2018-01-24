@@ -95,6 +95,7 @@
 
 ### Activities
 
+- Complete the [FizzBuzz](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/fizz-buzz) kata
 - [ATM Machine](https://wecancodeit.github.io/java-exercises/atm/)
 - Recommended Reading:
 	- *Head First Java* pages 54-56, 71-82, 99-102
@@ -102,7 +103,14 @@
 
 ### References
 
-- Using TDD to drive the creation of a class (We will complete together)
+- [TDD](https://wecancodeit.github.io/java-slides/testing/tdd-intro/#/)
+- [Gradle Scripts](https://github.com/WeCanCodeIT/gradle-scripts)
+- [Uncle Bob's blog post about the three rules](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+- Katas
+	- [CodeKata](http://codekata.com/)
+	- [codekatas.org](http://www.codekatas.org/) (videos)
+	- [Coding Dojo Kata Catalogue](http://codingdojo.org/KataCatalogue/)
+	- [LMGTFY: code katas](http://lmgtfy.com/?q=code+katas) :stuck_out_tongue_winking_eye:
 
 ## Day 5
 
