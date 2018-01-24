@@ -10,8 +10,8 @@ Your opportunity characteristics inventory is a starting point to start determin
 Get started on creating your Opportunity Characteristics Inventory by following: [Udacity: Find Your Career Path](https://career-resource-center.udacity.com/tech-jobs-find-your-career-path/career-industry-research) 
 Explore different job titles in tech: [List of IT Job Titles](https://www.thebalance.com/list-of-information-technology-it-job-titles-2061498)
 ## Homework
-Due Date: January 25, 2018 by 10 AM
-Submission Method:  Share copy of Google Sheet with your SSC
+Due Date: January 25, 2018 by 10:30 AM
+Submission Method:  [Share copy of Google Sheet with your SSC](https://goo.gl/forms/a9eWikx4pW5XrRDk1)
 
 Instructions:  Create a list of 3-5 organizational or opportunity characteristics that belong on your Opportunity Characteristic Inventory. You can (and should) continue to update this list throughout the program. Make a copy of [this template](https://docs.google.com/spreadsheets/d/1n01-VbIkY8gwxapAkKhW6kVr3iwbx8uaEk-hUDPnCbU/edit?usp=sharing) to use as your inventory. 
 
