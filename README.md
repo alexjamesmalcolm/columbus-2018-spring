@@ -33,6 +33,7 @@ Career Services:
 - Unit Testing/TDD (Junit)*
 
 Career Services: Headshots on Friday
+- [Resume Workshop (Includes Homework Details)](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Resume-Workshop.md)
 
 ### Week 3 
 - Collections Overview (*Iterables/Iterators)
@@ -40,6 +41,9 @@ Career Services: Headshots on Friday
 - Maps
 - Inheritance & Polymorphism
 - Encapsulation
+
+Career Services:
+- LinkedIn Profile Workshop
 
 ### Week 4 
 - Dependency Injection/Spring
