@@ -56,6 +56,8 @@ Career Services:
 - HTML
 - MVC
 
+Career Services: Lunch 'n Learn Presentation with Jeremy Clark on TDD
+
 ### Week 6 
 - CSS
 - Bootstrap
