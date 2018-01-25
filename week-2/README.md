@@ -107,6 +107,9 @@
 - [Gradle Scripts](https://github.com/WeCanCodeIT/gradle-scripts)
 - [Uncle Bob's blog post about the three rules](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
 - Katas
+	- [Clusters](https://wecancodeit.github.io/kata/beginner/clusters/)
+	- [String Calculator](https://wecancodeit.github.io/kata/beginner/string-calculator/)
+	- [Hank Putter and the Pernicious Pricing Procedure](https://wecancodeit.github.io/kata/hank-putter/)
 	- [CodeKata](http://codekata.com/)
 	- [codekatas.org](http://www.codekatas.org/) (videos)
 	- [Coding Dojo Kata Catalogue](http://codingdojo.org/KataCatalogue/)
