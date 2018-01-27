@@ -4,34 +4,22 @@
 
 ### Topics
 
-- Students will go through their first tdd process
 - Students should understand the differences between an array and an ArrayList.
 - Students should be able to create and manipulate an ArrayList through ArrayList methods
-- Students should understand how type parameters are used with an ArrayList.
+- Students should understand how type parameters are used with an ArrayList, specifically Raw Types vs. Generics
 
 ### Activities
 
-- Complete the [FizzBuzz](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/fizz-buzz) kata
 - Intro to ArrayLists
 - Complete the practice problems on Slide 17
-- [Let's Bake a Cake](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/array-lists) Extra practice that could be done outside of class
+- [Let's Bake a Cake](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/array-lists) 
+- [Cookie Order](https://wecancodeit.github.io/java-exercises/cookie-orders)
 - Recommended Reading: Head First Java pages 131-139
 
 ### References
 
-- [TDD](https://wecancodeit.github.io/java-slides/testing/tdd-intro/#/)
-- [Gradle Scripts](https://github.com/WeCanCodeIT/gradle-scripts)
 - [ArrayLists](https://wecancodeit.github.io/java-slides/objects/arraylists/)
 - [ArrayList Methods](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
-- [Uncle Bob's blog post about the three rules](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
-- Katas
-	- [CodeKata](http://codekata.com/)
-	- [codekatas.org](http://www.codekatas.org/) (videos)
-	- [Coding Dojo Kata Catalogue](http://codingdojo.org/KataCatalogue/)
-	- [CodeWars](https://www.codewars.com/)
-	- [CodeFights](https://codefights.com/) (no fighting involved!)
-	- [LMGTFY: code katas](http://lmgtfy.com/?q=code+katas) :stuck_out_tongue_winking_eye:
-
 
 ## Day 2
 
@@ -42,11 +30,8 @@
 
 ### Activities
 
-- [Cookie Order](https://wecancodeit.github.io/java-exercises/cookie-orders)
 - [Create a Shopping Cart](https://wecancodeit.github.io/java-exercises/shopping-cart)
 - Recommended Reading: Head First Java 132-138, 156, 208, 211-212, 288-289
-
-
 
 ### References
 
@@ -66,7 +51,6 @@
 
 ### References
 - Slides:
-	- [Constructors](https://wecancodeit.github.io/java-slides/objects/constructors/)
 	- [Maps](https://wecancodeit.github.io/java-slides/objects/maps/)
 
 
@@ -84,7 +68,6 @@
 ### References
 
 - Slides:
-	- [Constructors](https://wecancodeit.github.io/java-slides/objects/constructors/)
 	- [Maps](https://wecancodeit.github.io/java-slides/objects/maps/)
 
 ## Day 5
