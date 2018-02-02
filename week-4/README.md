@@ -74,7 +74,8 @@
 
 ### Activities
 
-
+- [Test Driving `equals()`](https://github.com/WeCanCodeIT/java-tdd-equals)
+- [Oh My](https://github.com/WeCanCodeIT/java-exercises-lions-tigers-bears)
 
 ### References
 
