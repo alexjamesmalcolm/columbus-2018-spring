@@ -72,6 +72,6 @@
 
 ## Day 5
 
-Weekly Graded Exercise: [virtual-pet-shelter]((https://wecancodeit.github.io/java-exercises/virtual-pet-shelter))
+Weekly Graded Exercise: [virtual-pet-shelter](https://wecancodeit.github.io/java-exercises/virtual-pet-shelter)
 
 Due Mon, 9:30 AM: 
