@@ -10,6 +10,8 @@ List the contents of the directory you're inside | ls
 Change directory to a directory that is inside the same one you are | cd [directory name]
 Go back a directory | cd ..
 Go back to the root directory | cd
+Selects previous commands | up arrow key
+Returns to a more recent command | down arrow key
 
 ## Git commands
 task | command
