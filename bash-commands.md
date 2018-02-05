@@ -23,24 +23,24 @@ Make the directory you're inside into a repository | git init
 Add all files to the next commit that have been changed | git add .
 Creates a commit of all the previously added files | git commit -m "[commit title]"
 Upload all commits made since last push to github | git push
-Establish the url of the github repo you would like to push to| git remote add [name (recommended: origin)] [github repository URL]
+Establish the url of the github repo you would like to push to | git remote add [name (recommended: origin)] [github repository URL]
 
 ## Examples
 Some commands are used in conjunction with each other so here's a couple of common situations:
 ### Git Cycle
 Personally recommend to complete a cycle at least as often as you're passing tests.
-1. git add .
-1. git commit -m "[commit title]"
-1. git push
+1. `git add .`
+1. `git commit -m "[commit title]"`
+1. `git push`
 ### Starting a new repo
 This is a big one to reference because its commands are used infrequently compared to the Git Cycle
-1. cd your way to your wcci/code/ folder
-1. mkdir [new directory name] to create the folder for your new repository
-1. cd [new directory name] moves you into this new repository
+1. `cd` your way to your `wcci/code/` folder
+1. `mkdir [new directory name]` to create the folder for your new repository
+1. `cd [new directory name]` moves you into this new repository
 1. Download and run your gradle script
-    1. curl https://raw.githubusercontent.com/WeCanCodeIT/gradle-scripts/master/junit-with-mockito-and-hamcrest/build.gradle --output build.gradle
-    1. gradle eclipse
-1. subl README.md
-1. subl .gitignore (make sure to finish this before starting your first git cycle)
-1. git init
+    1. `curl https://raw.githubusercontent.com/WeCanCodeIT/gradle-scripts/master/junit-with-mockito-and-hamcrest/build.gradle --output build.gradle`
+    1. `gradle eclipse`
+1. `subl README.md`
+1. `subl .gitignore` (make sure to finish this before starting your first git cycle)
+1. `git init`
 1. Finally you can import your repo to eclipse
