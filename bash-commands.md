@@ -15,3 +15,6 @@ Go back to the root directory | cd
 task | command
 -----| -------
 Make the directory you're inside into a repository | git init
+Add all files to the next commit that have been changed | git add .
+git commit -m "[commit title]"
+Upload all commits made since last push to github | git push
