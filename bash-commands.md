@@ -19,4 +19,6 @@ Add all files to the next commit that have been changed | git add .
 Creates a commit of all the previously added files | git commit -m "[commit title]"
 Upload all commits made since last push to github | git push
 Establish the url of the github repo you would like to push to| git remote add [name (recommended: origin)] [github repository URL]
-Open sublime and create a new file in the current directory | subl [file name]
+Open sublime and create a new file in the current directory (Example: README.me or .gitignore) | subl [file name]
+Downloads the junit/mockito/hamcrest build.gradle file into your current directory | curl https://raw.githubusercontent.com/WeCanCodeIT/gradle-scripts/master/junit-with-mockito-and-hamcrest/build.gradle --output build.gradle
+Runs the gradle script, perform before importing to eclipse | gradle eclipse
