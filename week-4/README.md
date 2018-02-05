@@ -5,19 +5,20 @@
 ### Topics
 
 - Students will use the concept of Inheritance to develope relationships and hierarchies between classes
+- Students will be able to define A PIE
 - Students will test drive objects made through Inheritance
 - Students will be able to define A PIE by the end of the week
 
 	
 ### Activities
 
-- Begin Development of [High St. Hospital](../exercises/hospital-project.md)
+- Begin Development of [High St. Hospital](https://wecancodeit.github.io/java-exercises/hospital)
 - Recommended Reading: Head First Java pages 165-183
 
 ### References
 
-- [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
-- [TDD vs Behavior Driven Development](https://www.youtube.com/watch?v=4QFYTQy47yA)
+- [APIE](https://wecancodeit.github.io/java-slides/objects/a-pie/)
+
 
 
 
@@ -32,9 +33,8 @@
 ### Activities
 
 - Complete the Polymorphism enhancement in the demo project along with me
-- Continue Development of [High St. Hospital](../exercises/hospital-project.md)
+- Continue Development of [High St. Hospital](https://wecancodeit.github.io/java-exercises/hospital)
 - Recommended Reading: Head First Java pages 183-196
-- Want more on Statics??? Read Head First Java Chapter 10
 
 ### References
 
@@ -47,7 +47,6 @@
 
 ### Topics
 
-- Students will be able to define A PIE
 - Students will be able to implement the Comparable Interface
 
 	
@@ -58,8 +57,7 @@
 
 ### References
 
-- [Generics and Comparables](./generics-and-comparable.md)
-- [APIE](https://wecancodeit.github.io/java-slides/objects/a-pie/)
+
 
 
 
@@ -76,7 +74,8 @@
 
 ### Activities
 
-- [Sort Employees](./comparing-employees.md)
+- [Test Driving `equals()`](https://github.com/WeCanCodeIT/java-tdd-equals)
+- [Oh My](https://github.com/WeCanCodeIT/java-exercises-lions-tigers-bears)
 
 ### References
 
