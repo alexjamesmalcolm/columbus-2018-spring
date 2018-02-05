@@ -34,7 +34,7 @@ Personally recommend to complete a cycle at least as often as you're passing tes
 1. git push
 ### Starting a new repo
 This is a big one to reference because its commands are used infrequently compared to the Git Cycle
-1. cd your way to code/
+1. cd your way to your wcci/code/ folder
 1. mkdir [new directory name] to create the folder for your new repository
 1. cd [new directory name] moves you into this new repository
 1. Download and run your gradle script
