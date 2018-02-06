@@ -31,7 +31,10 @@ Some commands are used in conjunction with each other so here's a couple of comm
 ### Git Cycle
 Personally recommend to complete a cycle at least as often as you're passing tests.
 1. `git add .`
-1. `git commit -m "[commit title]"`
+1. `git commit -m "[commit message]"`
+1. `git push`
+OR
+1. `git commit -a -m "[commit message]"`
 1. `git push`
 ### Starting a new repo
 This is a big one to reference because its commands are used infrequently compared to the Git Cycle
