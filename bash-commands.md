@@ -33,7 +33,8 @@ Personally recommend to complete a cycle at least as often as you're passing tes
 1. `git add .`
 1. `git commit -m "[commit message]"`
 1. `git push`
-OR
+
+**OR**
 1. `git commit -a -m "[commit message]"`
 1. `git push`
 ### Starting a new repo
