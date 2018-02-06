@@ -21,9 +21,10 @@ task | command
 -----| -------
 Make the directory you're inside into a repository | `git init`
 Add all files to the next commit that have been changed | `git add .`
-Creates a commit of all the previously added files | `git commit -m "[commit title]"`
+Creates a commit of all the previously added files with a message | `git commit -m "[commit message]"`
 Upload all commits made since last push to github | `git push`
 Establish the url of the github repo you would like to push to | `git remote add [name (recommended: origin)] [github repository URL]`
+Adds all changed files and commits them with a message | `git commit -a -m "[commit message]"`
 
 ## Examples
 Some commands are used in conjunction with each other so here's a couple of common situations:
