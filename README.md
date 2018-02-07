@@ -43,7 +43,8 @@ Career Services: Headshots on Friday
 - Encapsulation
 
 Career Services:
-- [LinkedIn Profile Workshop](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/LinkedIn-Profile-Checklist.md)
+- [LinkedIn Profile Workshop (Includes Homework Details)](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/LinkedIn-Profile-Checklist.md)
+- [Social Media Etiquette (Self Study)](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Social-Media-Etiquette-SelfStudy.md)
 
 ### Week 4 
 - Dependency Injection/Spring
