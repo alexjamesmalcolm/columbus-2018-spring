@@ -52,6 +52,9 @@ Career Services:
 - Exceptions
 - Build Automation with Gradle*
 
+Career Services:
+- [Inbound Self-Marketing & Branding](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Inbound-Self-Marketing-And-Branding.md)
+
 ### Week 5 
 - Spring Boot
 - HTML
@@ -61,7 +64,7 @@ Career Services: Lunch 'n Learn Presentation with Jeremy Clark on TDD
 
 ### Week 6 
 - CSS
-- Bootstrap
+- Flexbox/Grid
 
 ### Week 7
 - Relational Databases and Design
