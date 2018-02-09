@@ -8,7 +8,7 @@ Begin front end with HTML and introduction to HTTP
 
 ### Slides
 
-* [HTML: The Structure of the Internet](https://wecancodeit.github.io/java-slides/frontend/html/#/)
+[HTML: The Structure of the Internet](https://wecancodeit.github.io/java-slides/frontend/html/#/)
 
 ### References
 
@@ -17,7 +17,7 @@ Begin front end with HTML and introduction to HTTP
 
 ### Exercise
 
-* [Courses](https://wecancodeit.github.io/java-exercises/courses)
+[Courses (Static Version)](https://wecancodeit.github.io/java-exercises/courses)
 
 ## Day 2
 
@@ -35,7 +35,7 @@ Dependency Injection, Inversion of Control, Mockito, and the Spring Framework
 
 ### Topics
 
-* Introduction to MVC
+Introduction to MVC
 
 ### Class Preparation
 
@@ -56,12 +56,15 @@ Introduction to Thymeleaf
 
 ### Class Preparation
 
+[Thymeleaf Slides](https://wecancodeit.github.io/java-slides/web/thymeleaf/)
+
 ### References
 
-* [Iteration in Thymeleaf](http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#iteration)
+[Iteration in Thymeleaf](http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#iteration)
 
-* [Thymeleaf Slides](https://wecancodeit.github.io/java-slides/web/thymeleaf/)
-* [Thymeleaf Sample](./thymeleaf-notes.md)
+### Exercise
+
+Courses (Dynamic Version) - Use Spring Boot along with Thymeleaf to make a dynamic version of Courses.
 
 ## Day 5
 
