@@ -11,7 +11,7 @@
 ### Class Preparation
 
 - [Spring Initializr](http://start.spring.io/)
-- [Create Hello World](https://spring.io/guides/gs/serving-web-content/) using the video [Getting Started Guide: Serving Web Content](https://www.youtube.com/watch?v=aLJ9MeQQry8&feature=youtu.be)
+- [Create Hello World](https://spring.io/guides/gs/serving-web-content/) 
 - Another getting started guide [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 
 
@@ -32,8 +32,7 @@
 
 ### Class Preparation
 
-- Use this [Spring MVC Guide](./spring-mvc-intro.md) and the training video on [Courses](https://www.youtube.com/watch?v=YcgtStRstgw)
-
+- [Courses](./spring-mvc-intro.md) 
 
 
 ### References
@@ -65,8 +64,6 @@
 ### References
 
 - [w3schools interactive HTML tutorial](https://www.w3schools.com/html/default.asp)
-- [w3schools interactive CSS tutorial](https://www.w3schools.com/css/default.asp)
-- [Mozilla Developer Network's Learn Web Development: CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
 
 ## Day 4
@@ -89,11 +86,6 @@
 
 ## Day 5
 
-### Index Card Feedback
- 
- - Anonymous
- - Questions/Comments/Concerns/Shout-Outs for the good of the order???
- - I will post index card feedback on the cohort Slack so everyone can see what the group's thoughts are (totally anonymous)
 
 Weekly Graded Exercise: [Coming Soon]()
 
