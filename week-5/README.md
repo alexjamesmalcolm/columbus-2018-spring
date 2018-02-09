@@ -10,18 +10,12 @@
 
 ### Class Preparation
 
-- [Spring Initializr](http://start.spring.io/)
-- [Create Hello World](https://spring.io/guides/gs/serving-web-content/) 
-- Another getting started guide [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+- [Dependency Injection](https://wecancodeit.github.io/java-slides/objects/dependency-injection/)
 
 
 ### References
 
 - [Spring Framework Slides](https://wecancodeit.github.io/java-slides/spring/spring-boot/)
-- [Spring Boot Quick Start](https://javabrains.io/courses/spring_bootquickstart/)
-- Spring Boot Cookbook by Alex Antonov
-
-
 
 
 ## Day 2
@@ -32,13 +26,14 @@
 
 ### Class Preparation
 
+- [Spring Initializr](http://start.spring.io/)
+- [Create Hello World](https://spring.io/guides/gs/serving-web-content/) 
+- Another getting started guide [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 - [Courses](https://wecancodeit.github.io/java-exercises/courses) 
 
 
 ### References
 
-- [Accessing the local server](./accessing-the-local-server.md)
-- [Dependency Injection](https://wecancodeit.github.io/java-slides/objects/dependency-injection/)
 - [List of HTTP Status Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 
 ### Spring A-La Carte Projects
@@ -80,7 +75,6 @@
 ### References
 
 - [Iteration in Thymeleaf](http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#iteration)
-
 
 
 
