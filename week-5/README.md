@@ -32,7 +32,7 @@
 
 ### Class Preparation
 
-- [Courses](./spring-mvc-intro.md) 
+- [Courses](https://wecancodeit.github.io/java-exercises/courses) 
 
 
 ### References
