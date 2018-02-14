@@ -39,6 +39,7 @@ Introduction to MVC
 
 ### Class Preparation
 
+* [Spring MVC Getting Started Guide](https://wecancodeit.github.io/java-resources/spring/getting-started-guides/project-setup/)
 * [Spring Initializr](http://start.spring.io/)
 * [Create Hello World](https://spring.io/guides/gs/serving-web-content/)
 
