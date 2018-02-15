@@ -55,10 +55,6 @@ Introduction to MVC
 
 Introduction to Thymeleaf
 
-### Class Preparation
-
-[Thymeleaf Slides](https://wecancodeit.github.io/java-slides/web/thymeleaf/)
-
 ### References
 
 Lots of the Thymeleaf tutorial/docs are relevant, but here are some of the highlights:
