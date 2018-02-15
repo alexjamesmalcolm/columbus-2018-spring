@@ -61,11 +61,16 @@ Introduction to Thymeleaf
 
 ### References
 
-[Iteration in Thymeleaf](http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#iteration)
+Lots of the Thymeleaf tutorial/docs are relevant, but here are some of the highlights:
+
+- [Spring MVC and Thymeleaf: how to access data from templates](http://www.thymeleaf.org/doc/articles/springmvcaccessdata.html)
+- [Thymeleaf Tutorial, Standard Expression Syntax](http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#standard-expression-syntax)
+- [Thymeleaf Tutorial, Iteration in Thymeleaf](http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#iteration)
 
 ### Exercise
 
-Courses (Dynamic Version) - Use Spring Boot along with Thymeleaf to make a dynamic version of Courses.
+- [Thymeleaf Interactive Tutorial!](http://itutorial.thymeleaf.org/)
+- Courses (Dynamic Version) - Use Spring Boot along with Thymeleaf to make a dynamic version of Courses.
 
 ## Day 5
 
