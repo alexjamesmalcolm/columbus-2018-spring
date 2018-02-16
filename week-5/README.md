@@ -70,6 +70,6 @@ Lots of the Thymeleaf tutorial/docs are relevant, but here are some of the highl
 
 ## Day 5
 
-Weekly Graded Exercise: [Coming Soon]()
+Weekly Graded Exercise: [reviews](https://wecancodeit.github.io/java-exercises/reviews-site)
 
 Due Mon, 9:30 AM
