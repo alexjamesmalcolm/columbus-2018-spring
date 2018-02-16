@@ -56,9 +56,6 @@ Tools:
 - [ ] Add LinkedIn to your email signature:
 - [ ] Connect with We Can Code IT staff and students (including grads) on LinkedIn
 
-Due by Wednesday, February 14th @ 10 AM:
-[Submit Link to Your LinkedIn Profile to Your Student Success Coach](https://docs.google.com/forms/d/e/1FAIpQLSenaft8M0UPiT3Vr5tGspJUeyg2w9Ch3TIOoAi90A0YS9FWSg/viewform?usp=sf_link)
-
 Tip: Use - [LinkedIn Profile Guidelines](https://docs.google.com/spreadsheets/d/1cb4SA_08ZlHaUtQbg2GyOzS_zNYu5PHw6jnUm3_VeqQ/edit#gid=530008895) as a checklist to ensure you have all the needed components for a strong LinkedIn profile.
 
 ## LinkedIn Profile Resources
