@@ -69,6 +69,6 @@ Courses (Dynamic Version) - Use Spring Boot along with Thymeleaf to make a dynam
 
 ## Day 5
 
-Weekly Graded Exercise: [Coming Soon]()
+Weekly Graded Exercise: [reviews](https://wecancodeit.github.io/java-exercises/reviews-site)
 
 Due Mon, 9:30 AM
