@@ -61,10 +61,14 @@ Career Services:
 - MVC
 
 Career Services: Lunch 'n Learn Presentation with Jeremy Clark on TDD
+- Getting Started with Open Source (Lunch 'n Learn Presentation with CoverMyMeds)
 
 ### Week 6 
 - CSS
 - Flexbox/Grid
+
+Career Services: Apex Systems: Resume Reviews on Friday
+- [Informational Interviews via LinkedIn Messaging](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Informational-Interviews-via-LinkedIn-Messaging.md)
 
 ### Week 7
 - Relational Databases and Design
