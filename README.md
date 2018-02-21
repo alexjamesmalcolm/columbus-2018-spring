@@ -62,6 +62,7 @@ Career Services:
 
 Career Services: Lunch 'n Learn Presentation with Jeremy Clark on TDD
 - Getting Started with Open Source (Lunch 'n Learn Presentation with CoverMyMeds)
+- [Additional Open Source Resources](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Open-Source-References.md)
 
 ### Week 6 
 - CSS
