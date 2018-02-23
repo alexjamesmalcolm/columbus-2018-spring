@@ -73,6 +73,6 @@
 
 ## Day 5
 
-Weekly Graded Exercise: [Coming Soon!](https://wecancodeit.github.io/java-exercises/professional-portfolio)
+Weekly Graded Exercise: [Professional Portfolio](https://wecancodeit.github.io/java-exercises/professional-portfolio)
 
 Due Mon, 9:30 AM
