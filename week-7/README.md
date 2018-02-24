@@ -48,7 +48,7 @@
 
 ### Class Preparation
 
-- [Library](https://wecancodeit.github.io/java-exercises/jpa/library)) Pair Programming Activity
+- [Library](https://wecancodeit.github.io/java-exercises/jpa/library) Pair Programming Activity
 
 
 ### References
