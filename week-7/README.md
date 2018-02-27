@@ -31,8 +31,6 @@
 
 - [Courses and Instructors](https://wecancodeit.github.io/java-exercises/jpa/courses-with-instructors)
 
-
-
 ### References
 - [JPA Slides](https://wecancodeit.github.io/java-slides/data/jpa/)
 - [Java Persistence (on wikibooks)](https://en.wikibooks.org/wiki/Java_Persistence)
@@ -48,7 +46,7 @@
 
 ### Class Preparation
 
-- [Library](https://github.com/WeCanCodeIT/java-exercises/blob/master/jpa/library.md) Pair Programming Activity
+- [Library](https://github.com/WeCanCodeIT/java-exercises/blob/master/jpa/library.md)
 
 
 ### References
@@ -60,14 +58,6 @@
 ### Topics 
 
 - Students will review concepts and build upon activities with JPA
-- Students will be exposed to multiple database connections
-
-### Class Preparation
-
-
-
-### References 
-
 
 ## Day 5
 
