@@ -50,6 +50,10 @@
 
 - [Library](https://github.com/WeCanCodeIT/java-exercises/blob/master/jpa/library.md)
 
+### References
+
+- [JPA resources](https://wecancodeit.github.io/java-resources/data-access/jpa/#resources)
+
 ## Day 5
 
 Weekly Graded Exercise: [Coming Soon]
