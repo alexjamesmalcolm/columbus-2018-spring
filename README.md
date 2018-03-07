@@ -81,6 +81,9 @@ Career Services: Apex Systems: Resume Reviews on Friday
 - AJAX, JSON, and RESTful APIs
 - Pair Programming (w/ Git/GitHub)
 
+Career Services:
+- [How to Talk About Projects](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/HowToTalkAboutProjects.md)
+
 ### Week 9 
 - Flex Week
 
