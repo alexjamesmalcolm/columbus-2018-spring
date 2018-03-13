@@ -1,1 +1,29 @@
+# Week 9
+
+## Day 1
+
+### Topics
+
+* Students will be introducted to HTML forms to interact with their web applications and data
+* Students will be able to query data and apply this to their application
+
+### Class Preparation
+
+* https://github.com/WeCanCodeIT/java-resources/blob/master/jpa/forms.md
+* https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.query-creation
+* https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/ui/Model.html
+
+
+## Day 2
+
+### Topics
+
+* Students will be able to create a persistent database
+* Students will be able to analyze RESTful endpoints 
+
+### Class Preparation
+
+* [Persistent Data Storage](https://wecancodeit.github.io/java-resources/data-access/h2/persistent-storage/)
+
+
 
