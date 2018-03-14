@@ -76,6 +76,9 @@ Career Services: Apex Systems: Resume Reviews on Friday
 - Relational Databases and SQL
 - Java Persistence API (Spring Data)
 
+Career Services:
+- [Behavioral Interviews](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Behavioral-Interviews.md)
+
 ### Week 8 
 - JavaScript/jQuery
 - AJAX, JSON, and RESTful APIs
