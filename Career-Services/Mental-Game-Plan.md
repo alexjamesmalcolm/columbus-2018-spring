@@ -48,3 +48,5 @@ Include discussion questions to get the conversation started:
  - What specific resources will be most helpful to you in these challenges?
 
  - What are 3-5 core strengths you bring to the workplace?
+ 
+ -This week: review the lesson on Informational Interviewing! 
