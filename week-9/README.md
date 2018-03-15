@@ -27,6 +27,15 @@
 * [REST Getting Started Guide](https://spring.io/guides/gs/rest-service/)
 * [Tutorial: Building REST Services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
+## Day 3
 
+### Topics
+
+* Students will be introduced to jpa search queries
+* Students will be introduced to ajax requests to build web content
+
+### Class Preparation
+
+* [RESTing Cities](https://wecancodeit.github.io/java-exercises/resting-cities/)
 
 
