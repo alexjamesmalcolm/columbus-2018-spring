@@ -41,6 +41,6 @@
 
 ## Day 5
 
-Weekly Graded Exercise: [Coming Soon!](https://wecancodeit.github.io/java-exercises/reviews-site-iteration-3)
+Weekly Graded Exercise: [Coming Soon!](https://wecancodeit.github.io/java-exercises/reviews-site-iteration-?)
 
 Due Mon, 9:30 AM:
