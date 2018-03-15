@@ -27,7 +27,7 @@
 * [REST Getting Started Guide](https://spring.io/guides/gs/rest-service/)
 * [Tutorial: Building REST Services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
-## Day 3
+## Day 3/4
 
 ### Topics
 
@@ -39,3 +39,8 @@
 * [RESTing Cities](https://wecancodeit.github.io/java-exercises/resting-cities/)
 
 
+## Day 5
+
+Weekly Graded Exercise: [Coming Soon!](https://wecancodeit.github.io/java-exercises/reviews-site-iteration-3)
+
+Due Mon, 9:30 AM:
