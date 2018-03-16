@@ -13,13 +13,12 @@
 * https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.query-creation
 * https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/ui/Model.html
 
-
 ## Day 2
 
 ### Topics
 
 * Students will be able to create a persistent database
-* Students will be able to analyze RESTful endpoints 
+* Students will be able to analyze RESTful endpoints
 
 ### Class Preparation
 
@@ -38,9 +37,8 @@
 
 * [RESTing Cities](https://wecancodeit.github.io/java-exercises/resting-cities/)
 
-
 ## Day 5
 
-Weekly Graded Exercise: [Coming Soon!](https://wecancodeit.github.io/java-exercises/reviews-site-iteration-?)
+Weekly Graded Exercise: [Reviews, The Next Generation](https://github.com/WeCanCodeIT/java-exercises/tree/master/reviews-site-iteration-3)
 
 Due Mon, 9:30 AM:
