@@ -41,6 +41,7 @@
 ### Resources
 
 * [Spring Docs](https://docs.spring.io/spring/docs/4.3.x/spring-framework-reference/htmlsingle/)
+* [W3 Schools Ajax Introduction](https://www.w3schools.com/xml/ajax_intro.asp)
 
 ## Day 5
 
