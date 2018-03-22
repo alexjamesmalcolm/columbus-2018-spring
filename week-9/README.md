@@ -23,6 +23,7 @@
 ### Class Preparation
 
 * [Persistent Data Storage](https://wecancodeit.github.io/java-resources/data-access/h2/persistent-storage/)
+* [Understanding REST](https://spring.io/understanding/REST)
 * [REST Getting Started Guide](https://spring.io/guides/gs/rest-service/)
 * [Tutorial: Building REST Services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
