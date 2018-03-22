@@ -38,6 +38,10 @@
 
 * [RESTing Cities](https://wecancodeit.github.io/java-exercises/resting-cities/)
 
+### Resources
+
+* [Spring Docs](https://docs.spring.io/spring/docs/4.3.x/spring-framework-reference/htmlsingle/)
+
 ## Day 5
 
 Weekly Graded Exercise: [Reviews, The Next Generation](https://github.com/WeCanCodeIT/java-exercises/tree/master/reviews-site-iteration-3)
