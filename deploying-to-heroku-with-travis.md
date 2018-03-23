@@ -1,6 +1,11 @@
 # Heroku Deployment
 This tutorial is heavily based on the documentation provided by Travis found at https://docs.travis-ci.com/user/deployment/heroku/
 
+## Video
+I made this video with Ryan K. It came out alright but the audio is pretty bad and not everyone is a visual learner so I wrote this guide as well.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SJY_kbk-YcA" target="_blank"><img src="http://img.youtube.com/vi/SJY_kbk-YcA/0.jpg" 
+alt="Travis and Heroku Tutorial" width="240" height="180" border="10" /></a>
+
 ## Definitions
 * Travis CI or Travis Continous Integration - Wouldn't it be nice if a computer tracked your project and yelled at you the second you broke any of your tests? This tutorial assumes that you'd say yes.
 * Ruby - A programming language, we'll be using its package manager, gem, to install Travis CLI
