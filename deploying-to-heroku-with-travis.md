@@ -4,7 +4,7 @@ Start at "Flick the Travis switch" if you're already completed this guide once b
 
 ## Video
 I made this video with Ryan K. It came out alright but the audio is pretty bad and not everyone is a visual learner so I wrote this guide as well.
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=SJY_kbk-YcA" target="_blank"><img src="https://i9.ytimg.com/vi_webp/SJY_kbk-YcA/mqdefault.webp?sqp=CJCa1NUF&rs=AOn4CLAVf_dc83pE-etRZ9d1cOLUidzjxQ" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SJY_kbk-YcA" target="_blank"><img src="http://img.youtube.com/vi/SJY_kbk-YcA/0.jpg" 
 alt="Travis and Heroku Tutorial" width="240" height="180" border="10" /></a>
 
 ## Definitions
