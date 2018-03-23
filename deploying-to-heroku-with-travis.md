@@ -18,7 +18,7 @@ https://travis-ci.org/
 Sign in through GitHub.
 
 ## Make a Heroku CI account
-https://dashboard.heroku.com/
+Start at the [Heroku] dashboard to make an account.
 
 ## Ruby
 In order to install the Travis Command Line Interface (CLI) we're going to have to first install Ruby: https://rubyinstaller.org/
@@ -37,5 +37,8 @@ Pretty easy to install from what I remember. Select the installer for your machi
 You should then be prompted for your email and password for Heroku. Once you've entered it restart Git Bash again.
 
 ## Create Heroku app
+Head back to [Heroku]
 
 ## Configure .travis.yml
+
+[Heroku]: https://dashboard.heroku.com
