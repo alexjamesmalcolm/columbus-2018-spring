@@ -43,7 +43,8 @@ Career Services: Headshots on Friday
 - Encapsulation
 
 Career Services:
-- LinkedIn Profile Workshop
+- [LinkedIn Profile Workshop (Includes Homework Details)](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/LinkedIn-Profile-Checklist.md)
+- [Social Media Etiquette (Self Study)](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Social-Media-Etiquette-SelfStudy.md)
 
 ### Week 4 
 - Dependency Injection/Spring
@@ -51,26 +52,40 @@ Career Services:
 - Exceptions
 - Build Automation with Gradle*
 
+Career Services:
+- [Inbound Self-Marketing & Branding](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Inbound-Self-Marketing-And-Branding.md)
+
 ### Week 5 
 - Spring Boot
 - HTML
 - MVC
 
 Career Services: Lunch 'n Learn Presentation with Jeremy Clark on TDD
+- Getting Started with Open Source (Lunch 'n Learn Presentation with CoverMyMeds)
+- [Additional Open Source Resources](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Open-Source-References.md)
 
 ### Week 6 
 - CSS
-- Bootstrap
+- Flexbox/Grid
+
+Career Services: Apex Systems: Resume Reviews on Friday
+- [Informational Interviews via LinkedIn Messaging](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Informational-Interviews-via-LinkedIn-Messaging.md)
 
 ### Week 7
 - Relational Databases and Design
 - Relational Databases and SQL
 - Java Persistence API (Spring Data)
 
+Career Services:
+- [Behavioral Interviews](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Behavioral-Interviews.md)
+
 ### Week 8 
 - JavaScript/jQuery
 - AJAX, JSON, and RESTful APIs
 - Pair Programming (w/ Git/GitHub)
+
+Career Services:
+- [How to Talk About Projects](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/HowToTalkAboutProjects.md)
 
 ### Week 9 
 - Flex Week
