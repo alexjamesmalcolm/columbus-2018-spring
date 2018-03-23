@@ -68,5 +68,8 @@ Since Travis runs on linux and we're running on Windows we need to change the pe
 git update-index --chmod=+x ./gradlew
 ```
 
+## Push!
+Travis is trigged by pushing to GitHub so if you yet done so it's time to push!
+
 [Heroku]: https://dashboard.heroku.com
 [Travis]: https://travis-ci.org
