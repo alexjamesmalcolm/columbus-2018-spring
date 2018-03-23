@@ -1,5 +1,6 @@
 # Heroku Deployment
-This tutorial is heavily based on the documentation provided by Travis found at https://docs.travis-ci.com/user/deployment/heroku/
+This guide is heavily based on the documentation provided by Travis found at https://docs.travis-ci.com/user/deployment/heroku/
+Start at "Flick the Travis switch" if you're already completed this guide once before.
 
 ## Video
 I made this video with Ryan K. It came out alright but the audio is pretty bad and not everyone is a visual learner so I wrote this guide as well.
@@ -36,9 +37,18 @@ Pretty easy to install from what I remember. Select the installer for your machi
 `heroku login`
 You should then be prompted for your email and password for Heroku. Once you've entered it restart Git Bash again.
 
+## Flick the Travis switch
+In [Travis] flick the switch of the GitHub project you want to deploy
+
 ## Create Heroku app
 Head back to [Heroku] and click create app. You'll have to give it a unique name. The name you give it will be used in the next step so make sure to hold onto it.
 
 ## Configure .travis.yml
+Back in Git Bash `cd` your way into the directory that you want to deploy.
+
+### Brian's special sauce
+Travis
+
 
 [Heroku]: https://dashboard.heroku.com
+[Travis]: https://travis-ci.org
