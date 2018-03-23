@@ -41,10 +41,26 @@ You should then be prompted for your email and password for Heroku. Once you've 
 In [Travis] flick the switch of the GitHub project you want to deploy
 
 ## Create Heroku app
-Head back to [Heroku] and click create app. You'll have to give it a unique name. The name you give it will be used in the next step so make sure to hold onto it.
+Head back to [Heroku] and click create app. You'll have to give it a unique name. The name you give it will be used in the next step so make sure to hold onto it. We'll call it HEROKU_APP_NAME.
 
 ## Configure .travis.yml
-Back in Git Bash `cd` your way into the directory that you want to deploy.
+Back in Git Bash `cd` your way into the directory that you want to deploy. Create a file called `.travis.yml` in the root of your repository. Write to the file in sublime:
+```
+language: java
+```
+Then switch back to Git Bash and run the command:
+```bash
+travis encrypt $(heroku auth:token) --add deploy.api_key
+```
+Go back into your `.travis.yml` file and add `provider: heroku` and `app: HEROKU_APP_NAME` so your config file looks like:
+```yml
+language: java
+deploy:
+  provider: heroku
+  app: HEROKU_APP_NAME
+  api_key:
+    secure: "YOUR ENCRYPTED API KEY"
+```
 
 ### Brian's special sauce
 Travis
