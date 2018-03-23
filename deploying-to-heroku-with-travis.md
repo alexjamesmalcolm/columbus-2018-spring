@@ -30,10 +30,9 @@ After you complete the install wizard you may be prompted to enter a number 1, 2
 
 ## Travis CLI
 After Ruby is done installing restart Git Bash, then run one of two commands. I used the first one, which is the production version of Travis CLI. You could also use the second which is the development version and since we are developers maybe this is the better choice.
+
+Use one or the other but not both!
 1. `gem install travis -v 1.8.8 --no-rdoc --no-ri`
-
-OR
-
 1. `gem install travis --pre`
 
 ## Heroku CLI
