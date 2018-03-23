@@ -12,9 +12,9 @@ alt="Travis and Heroku Tutorial" width="240" height="180" border="10" /></a>
 ## Definitions
 * Travis CI or Travis Continuous Integration - Wouldn't it be nice if a computer tracked your project and yelled at you the second you broke any of your tests? This tutorial assumes that you'd say yes.
 * Ruby - A programming language, we'll be using its package manager, gem, to install Travis CLI
-* Travis CLI or Travis Command Line Interface - Allows you to run travis commands from CMD or Git Bash, super useful and installing it will save you a lot of time later. I think it's programmed in Ruby.
-* Heroku CLI or Heroku Command Line Interface - Similar to Travis CLI but can be installed right out of the gate. For our purposes we're using this just to get your API key so very small but like Travis CLI, it'll save you a lot of time later. You do need to login to it just like you have to login to Git Bash.
-* Heroku - Web hosting/database service. First tier is free, second tier is cheap ($7 per project per month), the rest of the tiers start getting expensive but we won't need them. In fact you should really only need the Free tier except for when you're presenting your final project. They also prorate you to the second so you wouldn't pay for the full $7 if you ran their Hobby Tier for less than a month.
+* Travis CLI or Travis Command Line Interface - Allows you to run Travis commands from CMD or Git Bash, super useful and installing it will save you a lot of time later. I think it's programmed in Ruby.
+* Heroku CLI or Heroku Command Line Interface - Similar to Travis CLI but can be installed right out of the gate. For our purposes, we're using this just to get your API key so very small but like Travis CLI, it'll save you a lot of time later. You do need to login to it just like you have to log in to Git Bash.
+* Heroku - Web hosting/database service. The first tier is free, the second tier is cheap ($7 per project per month), the rest of the tiers start getting expensive but we won't need them. In fact, you should really only need the Free tier except for when you're presenting your final project. They also prorate you to the second so you wouldn't pay for the full $7 if you ran their Hobby Tier for less than a month.
 
 ## Make a Travis CI account
 https://travis-ci.org/
@@ -24,7 +24,7 @@ Sign in through GitHub.
 Start at the [Heroku] dashboard to make an account.
 
 ## Ruby
-In order to install the Travis Command Line Interface (CLI) we're going to have to first install Ruby: https://rubyinstaller.org/
+In order to install the Travis Command Line Interface (CLI), we're going to have to first install Ruby: https://rubyinstaller.org/
 
 After you complete the install wizard you may be prompted to enter a number 1, 2, or 3. Just enter 1 and close out of the window when it says it's done installing.
 
@@ -38,7 +38,7 @@ Use one or the other but not both!
 ## Heroku CLI
 https://devcenter.heroku.com/articles/heroku-cli
 
-Pretty easy to install from what I remember. Select the installer for your machine. Once this is finished installing open up Command Prompt (that thing that looks like Git Bash but with less colors and comes with Windows, you can find it by searching). Enter the following:
+Pretty easy to install from what I remember. Select the installer for your machine. Once this is finished installing open up Command Prompt (that thing that looks like Git Bash but with fewer colors and comes with Windows, you can find it by searching). Enter the following:
 ```
 heroku login
 ```
@@ -48,7 +48,7 @@ You should then be prompted for your email and password for Heroku. Once you've 
 In [Travis] flick the switch of the GitHub project you want to deploy
 
 ## Create Heroku app
-Head back to [Heroku] and click create app. You'll have to give it a unique name. The name you give it will be used in the next step so make sure to hold onto it. We'll call it `HEROKU_APP_NAME`.
+Head back to [Heroku] and click create an app. You'll have to give it a unique name. The name you give it will be used in the next step so make sure to hold onto it. We'll call it `HEROKU_APP_NAME`.
 
 ## Configure .travis.yml
 Back in Git Bash `cd` your way into the directory that you want to deploy. Create a file called `.travis.yml` in the root of your repository. Write to the file in sublime:
@@ -70,7 +70,7 @@ deploy:
 ```
 
 ## Brian's special sauce
-Since Travis runs on linux and we're running on Windows we need to change the permissions on the Gradle Wrapper so that it's executable. Run this command in Git Bash
+Since Travis runs on Linux and we're running on Windows we need to change the permissions on the Gradle Wrapper so that it's executable. Run this command in Git Bash
 ```
 git update-index --chmod=+x ./gradlew
 ```
