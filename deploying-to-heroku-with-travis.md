@@ -62,9 +62,11 @@ deploy:
     secure: "YOUR ENCRYPTED API KEY"
 ```
 
-### Brian's special sauce
-Travis
-
+## Brian's special sauce
+Since Travis runs on linux and we're running on Windows we need to change the permissions on the Gradle Wrapper so that it's executable. Run this command in Git Bash
+```
+git update-index --chmod=+x ./gradlew
+```
 
 [Heroku]: https://dashboard.heroku.com
 [Travis]: https://travis-ci.org
