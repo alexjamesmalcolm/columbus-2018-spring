@@ -37,7 +37,7 @@ Pretty easy to install from what I remember. Select the installer for your machi
 You should then be prompted for your email and password for Heroku. Once you've entered it restart Git Bash again.
 
 ## Create Heroku app
-Head back to [Heroku]
+Head back to [Heroku] and click create app. You'll have to give it a unique name. The name you give it will be used in the next step so make sure to hold onto it.
 
 ## Configure .travis.yml
 
