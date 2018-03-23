@@ -13,3 +13,7 @@ After you complete the install wizard you may be prompted to enter a number 1, 2
 
 # Travis CLI
 After Ruby is done installing restart Git Bash, then run "gem install travis -v 1.8.8 --no-rdoc --no-ri" in Git Bash with no quotes. Alternatively you can run "gem install travis --pre", this is the development version and since we are developers maybe this is the better choice, not the one I picked though so the choice is yours.
+
+# Heroku CLI
+https://devcenter.heroku.com/articles/heroku-cli
+Pretty easy to install from what I remember. Select the installer for your machine.
