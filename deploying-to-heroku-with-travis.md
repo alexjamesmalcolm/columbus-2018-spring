@@ -35,3 +35,7 @@ https://devcenter.heroku.com/articles/heroku-cli
 Pretty easy to install from what I remember. Select the installer for your machine. Once this is finished installing open up Command Prompt (that thing that looks like Git Bash but with less colors and comes with Windows, you can find it by searching). Enter the following:
 `heroku login`
 You should then be prompted for your email and password for Heroku. Once you've entered it restart Git Bash again.
+
+## Create Heroku app
+
+## Configure .travis.yml
