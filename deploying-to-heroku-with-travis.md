@@ -12,3 +12,4 @@ In order to install the Travis Command Line Interface (CLI) we're going to have 
 After you complete the install wizard you may be prompted to enter a number 1, 2, or 3. Just enter 1 and close out of the window when it says it's done installing.
 
 # Travis CLI
+After Ruby is done installing restart Git Bash, then run "gem install travis -v 1.8.8 --no-rdoc --no-ri" in Git Bash with no quotes. Alternatively you can run "gem install travis --pre", this is the development version and since we are developers maybe this is the better choice, not the one I picked though so the choice is yours.
