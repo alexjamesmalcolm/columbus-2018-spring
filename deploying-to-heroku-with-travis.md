@@ -10,10 +10,10 @@ I made this video with Ryan K. It came out alright but the audio is pretty bad a
 alt="Travis and Heroku Tutorial" width="240" height="180" border="10" /></a>
 
 ## Definitions
-* Travis CI or Travis Continous Integration - Wouldn't it be nice if a computer tracked your project and yelled at you the second you broke any of your tests? This tutorial assumes that you'd say yes.
+* Travis CI or Travis Continuous Integration - Wouldn't it be nice if a computer tracked your project and yelled at you the second you broke any of your tests? This tutorial assumes that you'd say yes.
 * Ruby - A programming language, we'll be using its package manager, gem, to install Travis CLI
 * Travis CLI or Travis Command Line Interface - Allows you to run travis commands from CMD or Git Bash, super useful and installing it will save you a lot of time later. I think it's programmed in Ruby.
-* Heroku CLI or Heroku Command Line Interface - Similar to Travis CLI but can be installed right out of the gate. For our purposes we're using this just to get your api key so very small but like Travis CLI, it'll save you a lot of time later. You do need to login to it just like you have to login to Git Bash.
+* Heroku CLI or Heroku Command Line Interface - Similar to Travis CLI but can be installed right out of the gate. For our purposes we're using this just to get your API key so very small but like Travis CLI, it'll save you a lot of time later. You do need to login to it just like you have to login to Git Bash.
 * Heroku - Web hosting/database service. First tier is free, second tier is cheap ($7 per project per month), the rest of the tiers start getting expensive but we won't need them. In fact you should really only need the Free tier except for when you're presenting your final project. They also prorate you to the second so you wouldn't pay for the full $7 if you ran their Hobby Tier for less than a month.
 
 ## Make a Travis CI account
@@ -42,7 +42,7 @@ Pretty easy to install from what I remember. Select the installer for your machi
 ```
 heroku login
 ```
-You should then be prompted for your email and password for Heroku. Once you've entered it restart Git Bash again.
+You should then be prompted for your email and password for Heroku. Once you've entered that restart Git Bash again.
 
 ## Flick the Travis switch
 In [Travis] flick the switch of the GitHub project you want to deploy
