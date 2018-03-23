@@ -9,3 +9,6 @@ Heroku CLI or Heroku Command Line Interface - Similar to Travis CLI but can be i
 
 # Ruby
 In order to install the Travis Command Line Interface (CLI) we're going to have to first install Ruby: https://rubyinstaller.org/
+After you complete the install wizard you may be prompted to enter a number 1, 2, or 3. Just enter 1 and close out of the window when it says it's done installing.
+
+# Travis CLI
