@@ -13,7 +13,7 @@ https://travis-ci.org/
 Sign in through GitHub.
 
 # Make a Heroku CI account
-
+https://dashboard.heroku.com/
 
 # Ruby
 In order to install the Travis Command Line Interface (CLI) we're going to have to first install Ruby: https://rubyinstaller.org/
