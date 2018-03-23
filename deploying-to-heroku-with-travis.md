@@ -69,7 +69,7 @@ git update-index --chmod=+x ./gradlew
 ```
 
 ## Push!
-Travis is trigged by pushing to GitHub so if you yet done so it's time to push!
+Travis is trigged by pushing to GitHub so if you haven't yet done so it's time to push!
 
 [Heroku]: https://dashboard.heroku.com
 [Travis]: https://travis-ci.org
