@@ -21,7 +21,7 @@
 - Don't let frustration or confusion take hold. If you feel frustrated, take a pause. Communicate your roadblock and discuss different ways you might approach overcoming it. 
 - Don't overcomplicate the problem. You may not consider or cover everything- just get started somewhere. 
 
-Practice Problems: 
+## Practice Problems: 
 
 Below are some logic problems that may get your brain thinking in the right direction for a Whiteboarding activity. Remember, it is not
 all about solving a probelm accurately, first try, but in how you think and talk through a problem. Whiteboarding may be one of the most
@@ -30,18 +30,18 @@ them you can think and problem solve and strike up good dialogue during this par
 hire you because you are AWESOME!
 
 
-## Warm up 
+### Warm up 
 
 - Return the number of even ints in a given array
 
-## Moderate
+### Moderate
 
 - Given an array length 1 or more of ints, return the difference between the largest and smallest values in the array
 - Return the sum of the numbers in the array, except ignore sections of numbers starting with a 6 and extending to the next 7 
 (every 6 will be followed by at least one 7) Return 0 for no numbers
 
 
-## Challenging
+### Challenging
 
 - Return an array that is "left shifted" by one -- so {6, 2, 5, 3} returns {2, 5, 3, 6}
 - Given arrays nums1 and nums2 of the same length, for every element in nums1, consider the corresponding element in nums2 
