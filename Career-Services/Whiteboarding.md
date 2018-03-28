@@ -32,7 +32,7 @@ hire you because you are AWESOME!
 
 ## Warm up 
 
-- Return the number of even ints in the given array
+- Return the number of even ints in a given array
 
 ## Moderate
 
@@ -49,3 +49,6 @@ hire you because you are AWESOME!
 - Given start and end numbers, return a new array containing the sequence of integers from start up to but not including end,
 so start=5 and end=10 yields {5, 6, 7, 8, 9}.The end number will be greater or equal to the start number. 
 Note that a length-0 array is valid
+
+## Additional Resources
+ - [Whiteboarding Video](https://www.youtube.com/watch?v=_rNNvRDMBWc)
