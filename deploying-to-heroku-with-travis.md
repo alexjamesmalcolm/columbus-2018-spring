@@ -52,7 +52,7 @@ heroku login
 You should then be prompted for your email and password for Heroku. Once you've entered that restart Git Bash again.
 
 ## Flick the Travis switch
-In [Travis] flick the switch of the GitHub project you want to deploy
+In [Travis] flick the switch of the GitHub project you want to deploy. If you can't find the page with the switches, hover over your name in the top right and click profile.
 
 ## Create Heroku app
 Head back to [Heroku] and click create an app. You'll have to give it a unique name. The name you give it will be used in the next step so make sure to hold onto it. We'll call it `HEROKU_APP_NAME`.
